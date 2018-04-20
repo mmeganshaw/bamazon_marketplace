@@ -1,0 +1,29 @@
+{
+  "name": "bamazon_marketplace",
+  "version": "1.0.0",
+  "description": "An Amazon-like storefront built with MySQL",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmeganshaw/bamazon_marketplace.git"
+  },
+  "keywords": [
+    "bamazon",
+    "mysql",
+    "megan",
+    "shaw"
+  ],
+  "author": "megan shaw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmeganshaw/bamazon_marketplace/issues"
+  },
+  "homepage": "https://github.com/mmeganshaw/bamazon_marketplace#readme",
+  "dependencies": {
+    "inquirer": "^5.2.0",
+    "mysql": "^2.15.0"
+  }
+}
